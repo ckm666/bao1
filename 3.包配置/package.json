@@ -1,0 +1,26 @@
+{
+  "name": "page",
+  "version": "1.0.0",
+  "description": "student bao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ckm666/bao1.git"
+  },
+  "author": "chenkeming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckm666/bao1/issues"
+  },
+  "homepage": "https://github.com/ckm666/bao1#readme",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.4"
+  }
+}
